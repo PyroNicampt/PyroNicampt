@@ -4,12 +4,13 @@ I don't know what I'm doing 70% of the time, but I do know:
 2. how to troubleshoot
 
 Languages:
--C#
--Python
--Java
--Lua
--HTML
--Javascript
+- C#
+- Python
+- Java
+- Lua
+- HTML
+- Javascript
+- GDScript
 
 <!---
 PyroNicampt/PyroNicampt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
