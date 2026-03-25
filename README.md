@@ -1,7 +1,4 @@
-Hello, I try to poke help if I can.
-I don't know what I'm doing 70% of the time, but I do know:
-1. how to find bugs
-2. how to troubleshoot
+Hello, I'm a fox who likes to make and break shit.
 
 Languages:
 - C#
@@ -11,6 +8,10 @@ Languages:
 - HTML
 - Javascript
 - GDScript
+
+also technically:
+- C/C++
+- Rust
 
 <!---
 PyroNicampt/PyroNicampt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
